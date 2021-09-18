@@ -1,0 +1,16 @@
+<item>c'est quand l'anniversaire de <tag>data.birthday="c'est quand l'anniversaire de";data.info="date"</tag></item>
+<item>quand c'est l'anniversaire de	<tag>data.birthday="quand c'est l'anniversaire de";data.info="date"</tag></item>
+<item>quand est-ce que c'est l'anniversaire	de <tag>data.birthday="quand est-ce que c'est l'anniversaire de";data.info="date"</tag></item>
+<item>c'est quelle date l'anniversaire de <tag>data.birthday="c'est quelle date l'anniversaire de";data.info="date"</tag></item>
+	  
+<item>c'est quoi la date de naissance de <tag>data.birthday="c'est quoi la date de naissance de";data.info="anni"</tag></item>
+<item>quelle est la date de naissance de <tag>data.birthday=">quelle est la date de naissance de";data.info="anni"</tag></item>
+<item>quand est né <tag>data.birthday="quand est né";data.info="anni"</tag></item>
+	  
+<item>quel âge à <tag>data.birthday="quel âge à";data.info="age"</tag></item>
+<item>quel est l'âge de	<tag>data.birthday="quel est âge de";data.info="age"</tag></item>
+	  
+<item>quelle année est né <tag>data.birthday="quelle année est né";data.info="année"</tag></item>
+<item>en quelle année est né <tag>data.birthday="en quelle année est né";data.info="année"</tag></item>
+
+<item>quelle jour est né <tag>data.birthday="quelle jour est né ";data.info="jour"</tag></item>
